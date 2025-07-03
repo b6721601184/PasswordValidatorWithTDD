@@ -10,7 +10,7 @@ public class PasswordValidatorTest {
      */
     public static void run() {
 
-        System.out.println("==== ASSERTION-STYLE TEST CASES ====");
+        System.out.println("==== Running Password Validator Tests ====");
 
         // 1. Strong password
         String p1 = "MyStrongP@ssw0rd!"; // Should be STRONG
